@@ -1,0 +1,22 @@
+body {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .navbar {
+      background-color: #3a3a3a;
+      padding: 10px 20px;
+    }
+    
+
+    .navbar .nav-link {
+      color: #ff7f7f;
+      margin-right: 10px;
+    }
+
+    .theme-toggle {
+      display: flex;
+      gap: 10px;
+    }
